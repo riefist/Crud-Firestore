@@ -1,5 +1,5 @@
 # Crud-Firestore
-Implementasi Firestore
+Implementasi Firestore Android
 https://firebase.google.com/docs/firestore/
 
 Create Project at https://console.firebase.google.com/
